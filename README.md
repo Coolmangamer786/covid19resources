@@ -16,7 +16,7 @@ All files are in json format
 - [doctors.json](https://coolmangamer786.github.io/covid19resources/doctors.json)
 - [drive_spreadsheets.json](https://coolmangamer786.github.io/covid19resources/drive_spreadsheets.json)
 - [homeicu.json](https://coolmangamer786.github.io/covid19resources/homeicu.json)
-- [medecine.json](https://coolmangamer786.github.io/covid19resources/medicine.json)
+- [medicine.json](https://coolmangamer786.github.io/covid19resources/medicine.json)
 - [more.json](https://github.com/matiassingers/more.json)
 - [ngo.json](https://github.com/matiassingers/ngo.json)
 - [oxygen.json](https://github.com/matiassingers/oxygen.json)
