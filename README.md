@@ -24,3 +24,10 @@ All files are in json format
 - [telegram.json](https://github.com/matiassingers/telegram.json)
 - [testings.json](https://github.com/matiassingers/testings.json)
 - [whatsapp.json](https://github.com/matiassingers/whatsapp.json)
+
+
+## Web Pages
+
+ - [Do's and Dont's](https://coolmangamer786.github.io/covid19resources/index.html)
+ - [Vaccine Details](https://coolmangamer786.github.io/covid19resources/vaccine_details.html)
+ 
