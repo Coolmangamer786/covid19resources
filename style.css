@@ -1,5 +1,9 @@
 *{
     box-sizing: border-box;
+    padding: 10px;
+}
+body{
+    background-color: white;
 }
 h1{
     padding: 10px;
@@ -12,3 +16,28 @@ p{
     padding: 10px;
     text-align: justify;
 }
+table{
+    width: 100%;
+    border-collapse: collapse;
+    color: white;
+    padding: 20px;
+}
+td,th {
+    /* border: 2px solid black; */
+    text-align: left;
+    padding: 8px;
+  }
+  #t01{
+      background-color: #83c5be;
+  }
+  #t02{
+    background-color: #ffcdb2;
+}
+  #r01{
+      background-color: #006d77;
+
+  }
+  #r02{
+      background-color: #e5989b;
+  }
+  
