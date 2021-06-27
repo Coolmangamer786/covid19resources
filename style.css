@@ -1,0 +1,14 @@
+*{
+    box-sizing: border-box;
+}
+h1{
+    padding: 10px;
+}
+h3{
+    padding: 10px;
+text-align: justify;
+}
+p{
+    padding: 10px;
+    text-align: justify;
+}
