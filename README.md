@@ -22,8 +22,11 @@ All files are in json format
 - [oxygen.json](https://github.com/matiassingers/oxygen.json)
 - [plasma.json](https://github.com/matiassingers/plasma.json)
 - [telegram.json](https://github.com/matiassingers/telegram.json)
-- [testings.json](https://github.com/matiassingers/testings.json)
 - [whatsapp.json](https://github.com/matiassingers/whatsapp.json)
+
+### Testings
+- [home.json](https://github.com/matiassingers/home.json)
+- [outdoor.json](https://github.com/matiassingers/outdoor.json)
 
 
 ## Web Pages
