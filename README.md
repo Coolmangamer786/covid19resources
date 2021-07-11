@@ -15,7 +15,7 @@ All files are in json format
 - [beds](https://coolmangamer786.github.io/covid19resources/beds.json)
 - [doctors](https://coolmangamer786.github.io/covid19resources/doctors.json)
 - [spreadsheets](https://coolmangamer786.github.io/covid19resources/spreadsheets.json)
-- [homeicu](https://coolmangamer786.github.io/covid19resources/homeicu.json)
+- [homeicu](https://coolmangamer786.github.io/covid19resources/home icu.json)
 - [medicine](https://coolmangamer786.github.io/covid19resources/medicine.json)
 - [more](https://coolmangamer786.github.io/covid19resources/more.json)
 - [ngo](https://coolmangamer786.github.io/covid19resources/ngo.json)
