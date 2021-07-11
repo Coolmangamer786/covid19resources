@@ -11,22 +11,22 @@ All files are in json format
   
 ## Links
 
-- [ambulance.json](https://coolmangamer786.github.io/covid19resources/ambulance.json)
-- [beds.json](https://coolmangamer786.github.io/covid19resources/beds.json)
-- [doctors.json](https://coolmangamer786.github.io/covid19resources/doctors.json)
-- [spreadsheets.json](https://coolmangamer786.github.io/covid19resources/spreadsheets.json)
-- [homeicu.json](https://coolmangamer786.github.io/covid19resources/homeicu.json)
-- [medicine.json](https://coolmangamer786.github.io/covid19resources/medicine.json)
-- [more.json](https://github.com/matiassingers/more.json)
-- [ngo.json](https://github.com/matiassingers/ngo.json)
-- [oxygen.json](https://github.com/matiassingers/oxygen.json)
-- [plasma.json](https://github.com/matiassingers/plasma.json)
-- [telegram.json](https://github.com/matiassingers/telegram.json)
-- [whatsapp.json](https://github.com/matiassingers/whatsapp.json)
+- [ambulance](https://coolmangamer786.github.io/covid19resources/ambulance.json)
+- [beds](https://coolmangamer786.github.io/covid19resources/beds.json)
+- [doctors](https://coolmangamer786.github.io/covid19resources/doctors.json)
+- [spreadsheets](https://coolmangamer786.github.io/covid19resources/spreadsheets.json)
+- [homeicu](https://coolmangamer786.github.io/covid19resources/homeicu.json)
+- [medicine](https://coolmangamer786.github.io/covid19resources/medicine.json)
+- [more](https://coolmangamer786.github.io/covid19resources/more.json)
+- [ngo](https://coolmangamer786.github.io/covid19resources/ngo.json)
+- [oxygen](https://coolmangamer786.github.io/covid19resources/oxygen.json)
+- [plasma](https://coolmangamer786.github.io/covid19resources/plasma.json)
+- [telegram](https://coolmangamer786.github.io/covid19resources/telegram.json)
+- [whatsapp](https://coolmangamer786.github.io/covid19resources/whatsapp.json)
 
 ### Testings
-- [home.json](https://github.com/matiassingers/home.json)
-- [outdoor.json](https://github.com/matiassingers/outdoor.json)
+- [home](https://coolmangamer786.github.io/covid19resources/home.json)
+- [outdoor](https://coolmangamer786.github.io/covid19resources/outdoor.json)
 
 
 ## Web Pages
